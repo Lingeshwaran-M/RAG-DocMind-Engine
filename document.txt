@@ -1,0 +1,68 @@
+Revenue is the total income generated from business operations before deducting any expenses. It represents the top-line performance of a company.
+
+Net profit is calculated as revenue minus all operating expenses, taxes, interest, and other costs. It reflects the true profitability of a company.
+
+Gross profit is revenue minus the cost of goods sold (COGS). It measures how efficiently a company produces or sources its products.
+
+Operating income is the profit earned from core business operations excluding taxes and interest expenses.
+
+Customer acquisition cost (CAC) is the total marketing and sales expense required to acquire a new customer.
+
+Lifetime value (LTV) represents the total revenue a business expects from a customer throughout their relationship.
+
+Churn rate measures the percentage of customers who stop using a company's product or service during a given period.
+
+Market share represents the percentage of total industry sales earned by a company.
+
+Return on investment (ROI) measures the profitability of an investment relative to its cost.
+
+Break-even point is the level of sales at which total revenue equals total expenses.
+
+Cash flow refers to the movement of money into and out of a business. Positive cash flow indicates more money entering than leaving.
+
+Accounts receivable represents money owed to a company by customers for goods or services delivered but not yet paid.
+
+Accounts payable represents money a company owes to suppliers for products or services received.
+
+Inventory turnover measures how often inventory is sold and replaced during a period.
+
+Operating margin is calculated as operating income divided by revenue. It indicates operational efficiency.
+
+A balance sheet provides a snapshot of a company's assets, liabilities, and shareholders' equity at a specific point in time.
+
+An income statement shows revenues, expenses, and profits over a period.
+
+Working capital is calculated as current assets minus current liabilities.
+
+Data engineering involves designing, building, and maintaining data pipelines to ensure reliable data flow.
+
+ETL stands for Extract, Transform, Load, and it refers to the process of collecting data, cleaning it, and storing it in a structured format.
+
+Data warehouses store structured data optimized for analytical queries.
+
+Data lakes store raw structured and unstructured data in its native format.
+
+A fact table contains quantitative data for analysis, while dimension tables contain descriptive attributes related to facts.
+
+Batch processing handles large volumes of data at scheduled intervals.
+
+Real-time processing handles data immediately as it is generated.
+
+Data validation ensures data quality by checking accuracy, completeness, and consistency.
+
+Observability in data systems refers to monitoring pipelines, detecting failures, and ensuring reliability.
+
+Vector databases store embeddings and allow semantic similarity search.
+
+Embeddings convert text into numerical vectors that capture semantic meaning.
+
+Retrieval-Augmented Generation (RAG) combines document retrieval with language model generation to produce context-aware responses.
+
+Large Language Models (LLMs) generate text based on patterns learned during training.
+
+Chunking is the process of splitting large documents into smaller segments for embedding and retrieval.
+
+Metadata provides additional contextual information about data such as timestamps or categories.
+
+Semantic search finds documents based on meaning rather than exact keyword matches.
+

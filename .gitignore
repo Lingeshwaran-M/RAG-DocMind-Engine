@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+
+# Models
+*.bin
+*.gguf
+*.pt
+*.pth
+models/
+
+# Secrets
+.env
+
